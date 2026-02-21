@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-02-21T14:10:00Z",
+  "source": "api_gateway",
+  "host": "server-02",
+  "event_type": "admin_access",
+  "user": "root",
+  "ip": "198.51.100.23",
+  "severity": "high",
+  "message": "Access to admin endpoint"
+}
